@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# Java / Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
